@@ -6,7 +6,6 @@ local.properties
 
 # AndroidStudio files
 .idea
-*.iml
 
 # Gradle files
 .gradle
